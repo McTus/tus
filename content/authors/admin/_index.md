@@ -16,7 +16,7 @@ first_name: Benjamin
 highlight_name: true
 interests:
 - Household Finance
-- Labor
+- Labor Finance
 - Behavioral Economics & Finance
 last_name: Appianin
 organizations:
