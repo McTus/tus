@@ -29,10 +29,10 @@ url_pdf: ""
 # url_poster: ""
 links:
 - name: AFA 2024 Annual Meeting (Paper Session)
-  url: https://afajof.org/management/conference-session.php?s=108
+  url:  https://afajof.org/management/full-program2024.html
 
 - name: AFA 2024 Annual Meeting (Poster Session)
-  url: https://afajof.org/management/conference-session.php?s=122  
+  url:  https://afajof.org/management/full-program2024.html  
 
 - name: 2023 FMA Annual Meeting (Paper Session 97)
   url: https://www.fmaconferences.org/Chicago2023/ChicagoProgram.htm  
