@@ -1,5 +1,5 @@
 ---
-abstract: I identify the effect of house price beliefs on household labor supply decisions. Using experienced price growth (a weighted average of past price growth in local housing markets) as the belief measure, I find that higher house price beliefs significantly increase household labor supply at both the extensive (labor income) and the intensive (hours worked) work margin. Results hold when using geographically distant relatives' experienced price growth as an instrument. Effects are stronger among less sophisticated households, and there is no significant difference between the working propensity of homeowners and renters, thus distinguishing the belief channel from home equity channels.
+abstract: I examine the effect of local house price experiences on household labor supply using household-level data on labor income and hours worked from 1980. A within-household one-standard-deviation increase in experienced price growth (a weighted average of past price growth in local housing markets) leads to a 1 to 3 percentage points increase in households' real labor income. Results hold when using geographically distant relatives' experienced price growth as an instrument. Effects are similar for homeowners and renters and less pronounced for sophisticated households. Additional analyses reveal a positive relationship between experienced price growth and households' hours worked.
 authors:
 - admin
 date: "2023-09-01T00:00:00Z"
@@ -20,17 +20,22 @@ publication_types:
 - article
 publishDate: "2023-08-01T00:00:00Z"
 #slides: example
-summary: I identify the effect of house price beliefs on household labor supply decisions. Using experienced price growth (a weighted average of past price growth in local housing markets) as the belief measure, I find that higher house price beliefs significantly increase household labor supply at both the extensive (labor income) and the intensive (hours worked) work margin. Results hold when using geographically distant relatives' experienced price growth as an instrument. Effects are stronger among less sophisticated households, and there is no significant difference between the working propensity of homeowners and renters, thus distinguishing the belief channel from home equity channels.
+summary: I examine the effect of local house price experiences on household labor supply using household-level data on labor income and hours worked from 1980. A within-household one-standard-deviation increase in experienced price growth (a weighted average of past price growth in local housing markets) leads to a 1 to 3 percentage points increase in households' real labor income. Results hold when using geographically distant relatives' experienced price growth as an instrument. Effects are similar for homeowners and renters and less pronounced for sophisticated households. Additional analyses reveal a positive relationship between experienced price growth and households' hours worked.
 tags:
 #- Source Themes
-title: House Price Beliefs and Household Labor Supply 
+title: Local Housing Experiences and Household Labor Supply
+url_pdf: ""
+
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
 #url_pdf: "#"
 
 links:
-- name: Draft available soon
-url: ''
+- name: 2024 FMA Annual Meeting (Scheduled)
+  url: https://www.fmaconferences.org/Texas/TexasProgram.htm
+  
+#- name: Draft available soon
+#url: ''
 
 #url_poster: '#'
 #url_project: ""
