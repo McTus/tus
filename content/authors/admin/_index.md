@@ -45,6 +45,5 @@ title: Benjamin Appianin
 ---
 
 I am a Postdoctoral Research Associate in Finance at the University of Cambridge, Judge Business Schoo. I am interested in household finance, labor finance, and behavioral economics and finance. My research has been accepted for presentation at international conferences, including the American Finance Association Annual Meeting and the Financial Management Association Annual Meeting.
-
 In June 2024, I completed my PhD in Finance at the City University of Hong Kong.
 {style="text-align: justify;"}
